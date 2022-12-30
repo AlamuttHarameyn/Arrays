@@ -1,0 +1,5 @@
+# ARRAYS(DİZİLER)
+Diziler aslında bir veri yapısıdır ve bellek üzerinde aynı tipte veri tutabilmemizi sağlar. Bir değişken tanımladığımızı düşünürsek eğer bu bizim için tek bir değer tutacaktır. Diziler ise bir değişkenin altında birden fazla değer tutabilmemizi sağlar. Aynı tipdeki değerleri değişkenleri tek bir noktada yönetip tek bir değişkenle yönetme hızlıca ulaşma,döngüyle gezmede diziler kullanılır.Diziler veri tabanlarındaki yüzlerce kaydı çekip yönetmek için kolaylıkla kullanılır. <p>
+Tanımladığımız dizinin elemanlarına farklı farklı ulaşmak istersek indeks üzerinden ulaşabiliriz. <p>
+Bir dizi tanımlarken öncelikle yapılan işlem türünü(integer,string,char..) belirtmektir. Ardından dizi isimlendirilir ve en son işlem dizinin boyutunu belirtmek olacaktır. <p>
+Dizilerde indeksler üzerinden işlem yapılır ve unutulmamalıdır ki dizilerin indeks numarası sıfırdan başlar. Bu yüzden değer vermeye ilk indeks olan sıfırdan başlanır. Dizinin tüm elemanlarını görmek için bir foreach döngüsü ile bütün elemanları görebiliriz.
